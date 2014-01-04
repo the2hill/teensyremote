@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TeensyRemoteActivity!</string>
+    <string name="app_name">TeensyRemote</string>
+    <string name="strin1">IMABIGONE</string>
+    <string name="strin2">"     Forward.     "</string>
+    <string name="string3">"     Reverse.     "</string>
+    <string name="string4">"     Left .     "</string>
+    <string name="string6">"     Right.     "</string>
+    
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled.</string>
+    <string name="bt_not_connected">Could not connect with the Bluetooth device.</string>
+    <string name="bt_connected">Connected to Bluetooth device!</string>
+    
+ 	<!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    
+     <!-- Options Menu -->
+    <string name="connect">Connect a device</string>
+    <string name="discoverable">Make discoverable</string>
+</resources>
